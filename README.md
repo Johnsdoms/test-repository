@@ -1,3 +1,3 @@
 # test-repository
 
-Thesis test repo
+Thesis test repo to show differences between Debricked and Dependabot pull requests.
